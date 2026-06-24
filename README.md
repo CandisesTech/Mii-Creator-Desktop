@@ -1,4 +1,33 @@
-# Mii-Creator-Desktop
-<img alt="The unofficial Mii Creator Desktop App" src="https://github.com/user-attachments/assets/1622d299-b288-427a-b508-fc0d04d3e17e"> 
+# Mii Creator Desktop
+<img width="1904" height="544" alt="Gemini_Generated_Image_g6m482g6m482g6m4" src="https://github.com/user-attachments/assets/eff4d0e8-f9da-444e-ad19-bcbea8d22230" />
 
-###### Image by Mii Creators, I only added the Android App text
+
+
+
+###### Image by Mii Creator, I only added the Unofficial Desktop Version text
+> [!NOTE]  
+> To use the application, you need to register on Discord again, even if you previously registered in the browser.
+
+> [!IMPORTANT]
+> There will be no update to the application because this application does not need updating.
+
+I decided to create an unofficial desktop version of the site (mii.nxw.pw). 
+I developed the application in C# (Visual Studio).
+
+## How the application is structured and created
+As I mentioned, the app is built in C# and written in Visual Studio 2019, and it's based on WebView2 version 144 because it offers the most user-friendly interface. I tested it on Chromium, but it performed very poorly. I wasn't able to create a fully functional app on Chromium. In my opinion, the app is more user-friendly than a website in a browser. By the way, it's a Windows app, so no one will guess it's for mobile devices. This app will only be available for Windows and MacOS; there will be no Linux version!
+
+## How it works?
+It's essentially a small browser that immediately redirects you to the official Mii Creator website when you open the app, making it feel more like a full-fledged app. Rather than a website, the website looks really cool in a window, as if it was designed that way for the app.
+
+
+## System requirements
+
+| Минимальные требования | Рекомендуемые требования |
+| :--- | :--- |
+| **ОС:** Windows 10 1709 (64-bit) | **ОС:** Windows 10 1709 (64-bit) |
+| **Процессор:** not less than 1 GHz | **Процессор:** 1 GHz and faster |
+| **Оперативная память:** 1 GB RAM | **Оперативная память:** 4 GB RAM |
+| **Место на диске:** minimum 500 MB | **Место на диске:** minimum 1 GB|
+
+I found these minimum requirements on Google; they may not be accurate, but I included them so you don't have to search for them. This Readme is short because I'm not particularly good at writing long descriptions, and there's nothing special in the program that would require such a long description.
