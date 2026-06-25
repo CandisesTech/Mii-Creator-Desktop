@@ -23,11 +23,11 @@ It's essentially a small browser that immediately redirects you to the official 
 
 ## System requirements
 
-| Минимальные требования | Рекомендуемые требования |
+| Minimum requirements | Recommended requirements |
 | :--- | :--- |
-| **ОС:** Windows 10 1709 (64-bit) | **ОС:** Windows 10 1709 (64-bit) |
-| **Процессор:** not less than 1 GHz | **Процессор:** 1 GHz and faster |
-| **Оперативная память:** 1 GB RAM | **Оперативная память:** 4 GB RAM |
-| **Место на диске:** minimum 500 MB | **Место на диске:** minimum 1 GB|
+| **OS:** Windows 10 1709 (64-bit) | **OS:** Windows 10 1709 (64-bit) |
+| **Processor:** not less than 1 GHz | **Processor:** 1 GHz and faster |
+| **System memory:** 1 GB RAM | **System memory:** 4 GB RAM |
+| **Disk space:** minimum 500 MB | **МDisk space:** minimum 1 GB|
 
 I found these minimum requirements on Google; they may not be accurate, but I included them so you don't have to search for them. This Readme is short because I'm not particularly good at writing long descriptions, and there's nothing special in the program that would require such a long description.
