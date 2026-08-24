@@ -25,7 +25,7 @@ It's essentially a small browser that immediately redirects you to the official 
 
 | Minimum requirements | Recommended requirements |
 | :--- | :--- |
-| **OS:** Windows 10 1709 (64-bit) | **OS:** Windows 10 1709 (64-bit) |
+| **OS:** Windows 10 1709 (64-bit) | **OS:** Windows 10 22H2 (64-bit) |
 | **Processor:** not less than 1 GHz | **Processor:** 1 GHz and faster |
 | **System memory:** 1 GB RAM | **System memory:** 4 GB RAM |
 | **Disk space:** minimum 500 MB | **МDisk space:** minimum 1 GB|
